@@ -3,7 +3,7 @@ package github;
 public class LoginTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("====Login page successfully logged in====");
 
 	}
 
