@@ -1,0 +1,5 @@
+public class composeTest{
+public void composeTest(){
+  System.out.println("compose successfully");
+}
+}
