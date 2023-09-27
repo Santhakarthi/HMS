@@ -6,6 +6,10 @@ public class LoginPageTest {
 @Test
 public void login() {
 	System.out.println("Login Successfully");
+
 	System.out.println("---");
+
+	System.out.println("Logout Successfully");
+
 }
 }
