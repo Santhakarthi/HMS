@@ -1,0 +1,5 @@
+Public class inboxTest{
+public void inboxTest(){
+System.out.println("inbox suceessfully");
+}
+}
